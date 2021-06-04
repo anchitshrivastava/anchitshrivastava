@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning a lot!
 - 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me anchit.s@tatrasdata.com
+- 📫 How to reach me anchit.s@tatrasdata.com, +91 7986485146
 
 <!---
 anchitshrivastava/anchitshrivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
